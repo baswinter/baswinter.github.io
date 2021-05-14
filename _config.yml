@@ -28,7 +28,8 @@ twitter_username: WinterBoeken
 github_username:  baswinter
 
 # Build settings
-theme: minima
+#theme: minima
+remote-theme: jekyll-text-theme
 plugins:
   - jekyll-feed
 
