@@ -29,7 +29,7 @@ github_username:  baswinter
 
 # Build settings
 #theme: minima
-remote-theme: jekyll-text-theme
+remote-theme: kitian616/jekyll-TeXt-theme
 plugins:
   - jekyll-feed
 
